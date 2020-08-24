@@ -10,4 +10,4 @@ Two sections:
 
 1 Introduction (three parts)
 
-2 Advanced (yet to come)
+2 Advanced (further blogs are yet to come)
